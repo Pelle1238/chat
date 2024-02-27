@@ -1,5 +1,4 @@
   ArrayList<String> log;
-
   String msg;
   
 void setup(){ 
